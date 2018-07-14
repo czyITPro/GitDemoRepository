@@ -1,3 +1,3 @@
 # GitDemoRepository
 第一个git远程仓库
-pull测试
+fetch测试
